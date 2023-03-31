@@ -14,7 +14,9 @@ variables:
   webAppName: 'pythong-cicd-instance1'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  # vmImageName: 'ubuntu-latest'
+  vmImageName: 'Default'
+
 
   # Environment name
   environmentName: 'pythong-cicd-instance1'
