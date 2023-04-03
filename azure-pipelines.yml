@@ -14,8 +14,8 @@ variables:
   webAppName: 'pythong-cicd-instance1'
 
   # Agent VM image name
-  # vmImageName: 'ubuntu-latest'
-  vmImageName: 'SelfHostedPool'
+  vmImageName: 'ubuntu-latest'
+  # vmImageName: 'SelfHostedPool'
 
 
   # Environment name
